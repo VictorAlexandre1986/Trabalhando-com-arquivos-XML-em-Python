@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Raiz>
+   <Carro>
+      <Nome>gol</Nome>
+      <Potencia>200</Potencia>
+   </Carro>
+   <Carro>
+      <Nome>maverick</Nome>
+      <Potencia>330</Potencia>
+   </Carro>
+   <Carro>
+      <Nome>opala</Nome>
+      <Potencia>300</Potencia>
+   </Carro>
+</Raiz>

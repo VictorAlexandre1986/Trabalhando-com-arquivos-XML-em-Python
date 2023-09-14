@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pessoais>
+   <Pessoa Nome="Victor">
+      <cpf>123456789</cpf>
+      <sexo>masculino</sexo>
+      <endereco>casa 345</endereco>
+   </Pessoa>
+   <Pessoa Nome="Beltrano">
+      <cpf>987654321</cpf>
+      <sexo>masculino</sexo>
+      <endereco>rua xpto nº0</endereco>
+      <Filhos>
+         <Filho nome="Rodrigo" />
+         <Filho nome="Lucas" />
+      </Filhos>
+   </Pessoa>
+</Pessoais>
